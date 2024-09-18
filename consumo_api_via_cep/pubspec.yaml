@@ -1,0 +1,9 @@
+name: consumo_api_via_cep
+description: Um projeto de teste para aprender a consumir a api via cep
+version: "0.1.0"
+
+environment:
+  sdk: '^3.5.0'
+
+dependencies:
+  http: ^0.13.4 #dependencia para poder realizar requisicoes Http
